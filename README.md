@@ -14,8 +14,6 @@ graph/ – Graph RAG using Neo4j & LangChain integration.
 
 groq/ – RAG pipeline accelerated with Groq LLM.
 
-chatbot/ – Chatbot implementation with tools and human-in-the-loop.
-
 api/ – API backend (FastAPI + Streamlit integration).
 
 venv/ – Local Python environment (ignored in git).
