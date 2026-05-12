@@ -146,7 +146,7 @@ jupyter notebook
 
 - Baseline RAG is fast to implement but struggles with exact keyword queries
 - Hybrid search (BM25 + dense) consistently outperforms either method alone for mixed query types
-- Graph RAG enables entirely new query types — relational reasoning across entities — that vector retrieval cannot support
+- Graph RAG enables entirely new query types, relational reasoning across entities, that vector retrieval cannot support
 - LangChain's abstraction layer allows swapping retrieval backends with minimal code changes, making comparative evaluation straightforward
 
 ---
