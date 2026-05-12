@@ -6,7 +6,7 @@ Each folder is a self-contained implementation demonstrating a specific RAG vari
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 Types-of-RAG/
@@ -25,7 +25,7 @@ Types-of-RAG/
 
 ---
 
-## 📌 RAG Variants Explained
+##  RAG Variants Explained
 
 ### 1. Baseline RAG (`rag/`)
 Standard RAG pipeline demonstrating:
@@ -63,7 +63,7 @@ Knowledge graph-based retrieval and querying using Neo4j:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Component | Technology |
 |---|---|
@@ -79,7 +79,7 @@ Knowledge graph-based retrieval and querying using Neo4j:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Python 3.11+
@@ -132,7 +132,7 @@ jupyter notebook
 
 ---
 
-## 📊 Retrieval Architecture Comparison
+##  Retrieval Architecture Comparison
 
 | Approach | Strength | Weakness | Best For |
 |---|---|---|---|
@@ -142,7 +142,7 @@ jupyter notebook
 
 ---
 
-## 🔍 What I Learned
+##  What I Learned
 
 - Baseline RAG is fast to implement but struggles with exact keyword queries
 - Hybrid search (BM25 + dense) consistently outperforms either method alone for mixed query types
@@ -151,14 +151,14 @@ jupyter notebook
 
 ---
 
-## 📁 See Also
+##  See Also
 
 - [`Chat-bot-using-RAG`](https://github.com/Arav810/Chat-bot-using-RAG) — Full-stack multimodal RAG chatbot with FastAPI + Streamlit + Docker
 - [`langgraph-project-collection`](https://github.com/Arav810/langgraph-project-collection) — Multi-agent LLM systems using LangGraph
 
 ---
 
-## 👤 Author
+##  Author
 
 **Arav Chauhan**  
 MSc Data Science & Analytics, University of Leeds  
