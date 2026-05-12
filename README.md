@@ -153,7 +153,7 @@ jupyter notebook
 
 ##  See Also
 
-- [`Chat-bot-using-RAG`]([https://github.com/Arav810/Chat-bot-using-RAG](https://github.com/Arav810/Chat-bot-using-RAG/tree/Qdrant)) — Full-stack multimodal RAG chatbot with FastAPI + Streamlit + Docker
+- [`Chat-bot-using-RAG`](https://github.com/Arav810/Chat-bot-using-RAG/tree/Qdrant) — Full-stack multimodal RAG chatbot with FastAPI + Streamlit + Docker
 - [`langgraph-project-collection`](https://github.com/Arav810/langgraph-project-collection) — Multi-agent LLM systems using LangGraph
 
 ---
