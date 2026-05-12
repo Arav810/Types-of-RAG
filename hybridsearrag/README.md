@@ -1,7 +1,7 @@
 # Hybrid Search RAG
 
 ## What this does
-Implements a hybrid retrieval pipeline that combines **dense semantic search** and **sparse keyword search (BM25)** using Pinecone and LangChain. This approach retrieves documents that are both semantically similar AND lexically relevant to the query — outperforming either method alone.
+Implements a hybrid retrieval pipeline that combines **dense semantic search** and **sparse keyword search (BM25)** using Pinecone and LangChain. This approach retrieves documents that are both semantically similar and lexically relevant to the query, outperforming either method alone.
 
 ## Why Hybrid Search?
 - **Dense only**: finds semantically similar results but may miss exact keyword matches
